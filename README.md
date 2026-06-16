@@ -20,6 +20,7 @@ The module controls two main parts of the robot:
 ## Demo 🎥
 
 The demo video shows the robot responding to voice-based commands by executing movement and lifter actions.
+https://youtu.be/RmwOvbU-bH8
 
 **Video description:**
 
